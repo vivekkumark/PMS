@@ -1,0 +1,17 @@
+﻿<Window x:Class="WPFPMS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" Height="410" Width="590">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush>
+                <!--<GradientStop Offset="0.00" Color="Blue"/>
+                <GradientStop Offset="0.50" Color="Black"/>
+                <GradientStop Offset="1" Color="red"/>-->
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button Click="poda" Margin="133,223,363,121" Content="&lt;Vivek K&gt;"></Button>
+    </Grid>
+</Window>
+
+    

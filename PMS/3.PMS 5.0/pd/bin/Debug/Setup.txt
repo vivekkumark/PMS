@@ -1,0 +1,27 @@
+;The comment below contains SFX script commands
+
+Setup="PMS 2.5.exe"
+Title=PMS 2.5 Installation Wizard
+Text
+{
+Description :
+
+PMS 2.5 software is used for Merging or Splitting of PDF Files.
+
+And It will be useful for PDF page numbering also.
+
+
+Author Details:
+
+Vivek K (Inst) 
+
+Mail Id : vivek87k@yahoo.co.in
+
+
+Prerequisite:
+
+Please install .NET Framework 3.5 or Higher To Run This Software
+
+}
+Shortcut=D, ""PMS 2.5.exe"", "", "", "PMS2.5"
+Shortcut=S, ""PMS 2.5.exe"", "", "", "PMS2.5"
