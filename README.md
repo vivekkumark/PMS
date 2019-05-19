@@ -1,2 +1,2 @@
 # PMS
-PDF merge and Split
+PDF merge and Split (Windows)
